@@ -3,8 +3,6 @@
 2.) Make edits, or if new file is added, once done:
        git add <newFileName>
        git commit -m 'A message to remind yourself what the fuck happened'
-       git push -u origin newFileName
+       git push origin branchName
 	   
-3.)
-4.)
-5.)
+ADD ---->> COMMIT ---->> PUSH 
