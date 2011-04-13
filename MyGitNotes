@@ -1,1 +1,10 @@
-1.) Pick/Start a Branch\n\tgit branch (<branchName>)
+1.) Pick/Start a Branch
+       branch (<branchName>)
+2.) Make edits, or if new file is added, once done:
+       git add <newFileName>
+       git commit -m 'A message to remind yourself what the fuck happened'
+       git push -u origin newFileName
+	   
+3.)
+4.)
+5.)
